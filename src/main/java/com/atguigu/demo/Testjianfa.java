@@ -10,5 +10,6 @@ public class Testjianfa {
         // kakaka
         System.out.println("天下武功，唯快不破");
         System.out.println("小胖小胖，天下最胖");
+        System.out.println("tt");
     }
 }
