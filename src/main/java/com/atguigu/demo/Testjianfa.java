@@ -9,5 +9,6 @@ public class Testjianfa {
         //  test 网页端修改
         // kakaka
         System.out.println("天下武功，唯快不破");
+        System.out.println("小胖小胖，天下最胖");
     }
 }
