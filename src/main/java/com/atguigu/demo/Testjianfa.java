@@ -8,5 +8,6 @@ public class Testjianfa {
     public static void main(String[] args) {
         //  test 网页端修改
         // kakaka
+        System.out.println("天下武功，唯快不破");
     }
 }
